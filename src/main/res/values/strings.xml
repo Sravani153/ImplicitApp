@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IntentTask</string>
+    <string name="edittext_loc"></string>
+    <string name="button_loc">OpenLocation</string>
+    <string name="intent_exp">Intent Example</string>
+    <string name="edittext_uri"></string>
+    <string name="button_uri">OpenWebsite</string>
+
+    <string name="edittext_share"></string>
+    <string name="button_share">Share Text</string>
+</resources>
